@@ -1,5 +1,4 @@
 
-https://github.com/hajarST/WebApplication9/assets/119755584/e9873a13-0a63-4dc8-9835-b11bdb6b4c6b
 ******Application Web de Gestion des Employés et Services******
 Cette application web JSF (JavaServer Faces) avec Hibernate a pour objectif de gérer les services et les employés au sein d'une entreprise.
 
